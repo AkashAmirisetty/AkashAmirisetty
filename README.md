@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development Projects with Angular, Django, and MySQL**
 
-- 🌱 I’m currently diving into **Data Structures, Algorithms**
+- 🌱 I’m currently diving into **Data Structures & Algorithms**
 
 - 💬 Ask me about **IoT, VFX Design, Python, Machine Learning and Web Development**
 
