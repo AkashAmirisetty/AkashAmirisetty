@@ -14,6 +14,8 @@
 
 - ⚡ Fun fact: **Building tech bridges imagination and reality** 😊
 
+- ⚡Unexpected things can happen, Unfortunate things can happen and sometimes 1% chance is good enough ⚡
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="www.linkedin.com/in/akashamirisetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AkashAmirisetty" height="30" width="40" /></a>
