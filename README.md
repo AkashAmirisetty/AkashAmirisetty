@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash Amirisetty</h1>
+<h1 align="center">HELLO 👋, I'm Akash Amirisetty</h1>
 <h3 align="center">Electronics and Communication Engineer | Data Science Enthusiast | Full Stack Developer in Training</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif">
 
