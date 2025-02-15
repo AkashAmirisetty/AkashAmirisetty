@@ -6,4 +6,11 @@
 - 👯 I’m looking to collaborate on **open-source and web development projects**
 - 💬 Ask me about **Python, DSA, and IoT projects**
 - 📫 How to reach me: **amirisettyakash@gmail.com**
-- ⚡ Fun fact: **I love VFX and gym workouts!**
+- ⚡ Fun fact: **I love VFX and gym workouts!**  
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Akash's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+</p>
