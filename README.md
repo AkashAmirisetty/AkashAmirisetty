@@ -13,7 +13,7 @@
 - 👯 Looking to collaborate on open-source and web development projects
 - 💬 Ask me about Python, DSA, IoT projects, and ECE-related topics
 - 📫 How to reach me: amirisettyakash@gmail.com
-- ⚡ Fun fact: I love VFX and gym workouts!
+- 🔄 EAT-CODE-GYM-SLEEP
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashAmirisetty&layout=compact&theme=radical)
 
