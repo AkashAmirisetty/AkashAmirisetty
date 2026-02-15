@@ -2,7 +2,9 @@
 
 # Hi there, I'm Akash <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![My GIF](https://github.com/AkashAmirisetty/AkashAmirisetty/blob/main/akash2.gif)
+<img src="https://github.com/AkashAmirisetty/AkashAmirisetty/blob/main/akash2.gif" width="700"/>
+
+### Full-Stack Developer | Data Analyst | ECE Student
 
 </div>
 
